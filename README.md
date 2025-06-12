@@ -1,33 +1,33 @@
 # GestureAI-WebApp
 
-Steps to run GestureAI-WebApp Server 
+## Steps to run GestureAI-WebApp Server 
 
-Command for creating a virtual environment
+1. Command for creating a virtual environment
 
 ```
 python -m venv gestureRecogEnv
 ```
 
-Command for activating Virtual Environment
+2. Command for activating Virtual Environment
 
-For Windows
+- For Windows
 
 ```
 gestureRecogEnv\Scripts\activate
 ```
 
-For MacOS\Linux
+- For MacOS\Linux
 ```
 source gestureRecogEnv/bin/activate
 ```
 
  
-Requirements.txt:  
+3. Requirements.txt:  
 ```shell
 pip install -r requirements.txt
 ```
 
-Command to deactivate the Virtual Environment
+4. Command to deactivate the Virtual Environment
 
 ```
 deactivate
